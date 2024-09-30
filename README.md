@@ -29,6 +29,11 @@ This theme was developed by SynapseThemes, available for XenForo version 2.3.3 (
 6. Import XenForo folder to your FTP.
 7. Done.
 
+Login with admin account
+
+User: admin
+Pass: admin
+
 ## Compatibility
 
 - XenForo 2.3.x and above
