@@ -23,9 +23,9 @@ This theme was developed by SynapseThemes, available for XenForo version 2.3.3 (
 
 1. Download the latest release from the [Releases](https://github.com/SynapseThemes/Kingz-V3/releases) page.
 2. Open archive and run the installer, follow instructions.
-3. Locate to C:/KingzV3/XenForo/src and edit config.php.
+3. Locate to `C:/KingzV3/XenForo/src` and edit `config.php`.
 4. Edit database details and hit save.
-5. Go back to root folder, take 20240702234412.sql and import to your database.
+5. Go back to root folder, take `20240702234412.sql` and import to your database.
 6. Import XenForo folder to your FTP.
 7. Done.
 
