@@ -32,6 +32,7 @@ This theme was developed by SynapseThemes, available for XenForo version 2.3.3 (
 Login with admin account
 
 User: admin
+
 Pass: admin
 
 ## Compatibility
